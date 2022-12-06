@@ -1,0 +1,15 @@
+a,b,c,d;
+responded_existence(a,b);
+responded_existence(a,c);
+precedence(b,c);
+precedence(b,d);
+absence(c,2);
+absence(b,2);
+not_chain_succession(a,b);
+alternate_response(b,c);
+existence(b,1);
+not_succession(c,b);
+not_chain_succession(b,d);
+responded_existence(d,c);
+not_succession(d,b);
+existence(c,1);

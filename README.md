@@ -11,3 +11,6 @@ can be computed within milliseconds even for real-life event logs. Furthermore, 
 understanding declarative process models is enormously reduced by using our implementation. 
 
 *Excerpt from the paper "Scenario-based Model Checking of Declarative Process Models" (currently under review)*
+
+## Folder "Process Models" contains Declare model (*.txt) and corresponding process automaton (*.json) for each BPIC event considered in the paper
+

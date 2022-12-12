@@ -34,7 +34,10 @@ understanding declarative process models is enormously reduced by using our impl
     - Feld: field (String)
     - Berufserfahrung: work experience (in years) (Integer)
     - Vorkenntnisse: prior knowledge in BPM (possible entries: 'ja', 'nein')
-    -    
+    - lesen: experience in reading process models (possible entries: 'ja', 'nein')
+    - erstellen: experience in creating process models (possible entries: 'ja', 'nein')  
+    - dekl. lesen: experience in reading declarative process models (possible entries: 'ja', 'nein')
+    - dekl. erstellen: experience in creating declarative process models (possible entries: 'ja', 'nein')  
     ```
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:

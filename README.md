@@ -81,8 +81,7 @@ If you use the tool or the data in your paper, please cite the following paper:
     title = "Scenario-based model checking of Declarative Process Models",
     author = "Sch\"{u}tzenmeier, Nicolai and K\"{a}ppel, Martin and 
         Fichtner, Myriel and Jablonski, Stefan",
-    year = "Currently under review",
-    publisher = "Springer"
+    year = "Currently under review"
 }
 ```
 

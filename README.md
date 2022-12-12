@@ -68,6 +68,11 @@ understanding declarative process models is enormously reduced by using our impl
     - 2.3b Bewertung: gained points for sub-task 3b of task set 2(Integer between 0 and 6)
     - 2.3c Zeit: time spent for sub-task 3c of task set 2 (in seconds - Integer)
     - 2.3c Bewertung: gained points for sub-task 3c of task set 2(Integer between 0 and 2)
+    - 1. Fehlerbeschreibung: description of errors for task set 1 (String)
+    - 2. Fehlerbeschreibung: description of errors for task set 2 (String)
+    - Angabenzettel verwendet: indicates whether participant used sheet with rules while working with tool (possible entries: 'ja', 'nein')
+    - Anstrengung ohne: mental effort for task set without tool (Integer between 0 and 220)
+    - Anstrengung mit: mental effort for task set with tool (Integer between 0 and 220)
     ```
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:

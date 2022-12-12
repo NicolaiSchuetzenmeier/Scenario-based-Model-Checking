@@ -12,5 +12,7 @@ understanding declarative process models is enormously reduced by using our impl
 
 *Excerpt from the paper "Scenario-based Model Checking of Declarative Process Models" (currently under review)*
 
-## Folder "Process Models" contains Declare model (*.txt) and corresponding process automaton (*.json) for each BPIC event considered in the paper
+## Folder "Process Models" contains 
+- Declare model (*.txt) 
+- corresponding process automaton (*.json) 
 

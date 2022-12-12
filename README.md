@@ -27,7 +27,14 @@ understanding declarative process models is enormously reduced by using our impl
     ```
     - Nummer: ID for participant
     - Alter: age (Integer)
-    - Geschlecht: gender (possible entries: 'm', 'w', 'd')       
+    - Geschlecht: gender (possible entries: 'm', 'w', 'd')    
+    - Abschluss: diploma (String)
+    - Ausbildung: education (String)
+    - Beruf: profession (String)
+    - Feld: field (String)
+    - Berufserfahrung: work experience (in years) (Integer)
+    - Vorkenntnisse: prior knowledge in BPM (possible entries: 'ja', 'nein')
+    -    
     ```
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:

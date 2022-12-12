@@ -16,3 +16,20 @@ understanding declarative process models is enormously reduced by using our impl
 - Declare model (*.txt) 
 - corresponding process automaton (*.json) 
 
+## Citation
+If you use this tool in your paper, please cite the following paper:
+```
+@article{schuetzenmeier-2022-scenariobased,
+    title = "Scenario-based model checking of Declarative Process Models",
+    author = "Sch\"{u}tzenmeier, Nicolai and K\"{a}ppel, Martin and 
+        Fichtner, Myriel and Jablonski, Stefan",
+    year = "Currently under review",
+    publisher = "Springer"
+}
+```
+
+## Contact
+- [nicolai.schuetzenmeier@uni-bayreuth.de](mailto:nicolai.schuetzenmeier@uni-bayreuth.de)
+- [martin.kaeppel@uni-bayreuth.de](mailto:martin.kaeppel@uni-bayreuth.de)
+- [myriel.fichtner@uni-bayreuth.de](mailto:myriel.fichtner@uni-bayreuth.de)
+- [stefan.jablonski@uni-bayreuth.de](mailto:stefan.jablonski@uni-bayreuth.de)

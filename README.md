@@ -21,8 +21,9 @@ understanding declarative process models is enormously reduced by using our impl
  - "User study" contains:
     ```
     - sets of tasks (*.pdf) including solutions
-    - data collection of the participants (*.csv) 
+    - data collection of the participants (Data collection participants.csv):            
     ```
+
 
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:

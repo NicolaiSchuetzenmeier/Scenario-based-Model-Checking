@@ -1,7 +1,4 @@
 # Scenario-based Model Checking of Declarative Process Models
-< 
-
-
 > Modeling processes with declarative process models, i.e. sets of constraints which have to be satisfied throughout the whole 
 process execution, allows for a great degree of flexibility in process execution. However, having a process specified by means 
 of symbolic, textual or formally constraints comes along with the problem that it is often hard for humans to understand complicated 

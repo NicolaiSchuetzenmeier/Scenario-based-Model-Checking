@@ -23,8 +23,12 @@ understanding declarative process models is enormously reduced by using our impl
     - sets of tasks (*.pdf) including solutions
     - data collection of the participants (Data collection participants.csv):            
     ```
-
-
+ - Description of all attributes in "Data collection participants.csv):
+    ```
+    - Nummer: ID for participant
+    - Alter: age (Integer)
+    - Geschlecht: gender (possible entries: 'm', 'w', 'd')       
+    ```
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:
 ```

@@ -18,6 +18,11 @@ understanding declarative process models is enormously reduced by using our impl
     - Declare model (*.txt) 
     - corresponding process automaton (*.json) 
     ```
+ - "User study" contains:
+    ```
+    - sets of tasks (*.pdf) including solutions
+    - data collection of the participants (*.csv) 
+    ```
 
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:

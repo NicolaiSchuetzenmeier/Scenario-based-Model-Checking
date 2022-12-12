@@ -1,4 +1,4 @@
-# Scenario-based-Model-Checking
+# Scenario-based Model Checking of Declarative Process Models
 < 
 
 

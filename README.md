@@ -17,7 +17,7 @@ understanding declarative process models is enormously reduced by using our impl
 - corresponding process automaton (*.json) 
 
 ## Citation
-If you use this tool in your paper, please cite the following paper:
+If you use the tool or the data in your paper, please cite the following paper:
 ```
 @article{schuetzenmeier-2022-scenariobased,
     title = "Scenario-based model checking of Declarative Process Models",

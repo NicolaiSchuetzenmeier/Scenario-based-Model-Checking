@@ -9,3 +9,5 @@ scenario-based approach for declarative process models, which supports process m
 scenarios, which regularly occur when modeling declarative processes. We implement our approach and show that the solutions for the scenarios
 can be computed within milliseconds even for real-life event logs. Furthermore, a user study conducted demonstrates that the error rate in 
 understanding declarative process models is enormously reduced by using our implementation. 
+
+*Excerpt from the paper "Scenario-based Model Checking of Declarative Process Models" (currently under review)*

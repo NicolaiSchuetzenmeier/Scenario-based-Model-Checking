@@ -1,0 +1,101 @@
+Nummer;Alter;Geschlecht;Abschluss;Ausbildung;Beruf;Feld;Berufserfahrung;Vorkenntnisse;lesen;erstellen;dekl. lesen;dekl. erstellen;Erfahrung PM;Erfahrung dekl.;Start ;Beginn;Reihenfolge 1;Reihenfolge 2;1.1a Zeit;1.1a Bewertung;1.2a Zeit;1.2a Bewertung;1.2b Zeit;1.2b Bewertung;1.3a Zeit;1.3a Bewertung;1.3b Zeit;1.3b Bewertung;1.3c Zeit;1.3c Bewertung;2.1a Zeit;2.1a Bewertung;2.2a Zeit;2.2a Bewertung;2.2b Zeit;2.2b Bewertung;2.3a Zeit;2.3a Bewertung;2.3b Zeit;2.3b Bewertung;2.3c Zeit;2.3c Bewertung;1. Fehlerbeschreibung;2. Fehlerbeschreibung;Angabenzettel verwendet;Anstrengung ohne;Anstrengung mit
+1;27;w;Master;Gesundheitsökonomie;Studentin;Gesundheitsökonomie;2;nein;;;;;;;o;2;321;231;25;5;15;2;30;2;35;7;40;4;45;1;35;1;10;2;20;2;80;0;120;1;40;0;3a) leeres Wort nicht erkannt 3c) falsche Vorgehensweise;"leeres Wort vergessen; Zeichen ""I"" nichtr berücksichtigt; oftmals nur einzelne Regeln geprüft";nein;75;40
+2;31;w;Master;Informatik;wiss. Mitarbeiterin;Prozessmanagement;3;ja;ja;ja;ja;nein;4;0,5;o;2;231;132;35;5;20;2;15;2;38;8;40;3;90;1;56;4;55;0;110;2;300;7;150;2;115;2;bei Länge 4 wurde auch Länge 3 angegeben 3c) falsche Herangehensweise;"einige Zeichenketten wurden vergessen; teilweise einzelne Regeln vergessen";nein;118;40
+3;31;m;Master;Chemie;wiss. Mitarbeiter;Chemie;4;ja;ja;nein;nein;nein;0;;m;2;123;132;90;5;70;2;90;2;130;4;130;4;30;2;37;4;35;2;20;2;30;6;80;5;160;0;"""E"" wurde übersehen";"leeres Wort übersehen (3a); schaut Putput nicht genau an; 3c) falsches Vorgehen";nein;40;30
+4;31;m;Master;Informatik;wiss. Mitarbeiter;Prozessmanagement;4;ja;ja;ja;ja;ja;5;5;m;2;123;312;40;5;50;2;22;2;90;3;80;3;10;2;15;4;17;2;10;2;27;7;28;5;70;2;"3a) alles mit ""E"" vergessen; 3b) ""DECE"" vergessen";"3b) Länge 3 wurde dazu gesagt; 3c) Methode mit allen Zeichen gestartet und vervollst.";nein;90;40
+5;28;m;Bachelor;Jura;Geschäftsführung GmbH;Sport;2;nein;;;;;;;m;1;321;213;16;5;25;2;15;2;30;8;30;4;80;1;60;1;40;2;27;0;90;5;120;4;26;2;3c) mit Zeichenkette prüfen und Regeln gelöst;"falsche Fortsetzung bei 2b); 1a) falsch bei Regeln, die mehrfach gelten; 3a) ""IH"" und ""HI"" vergessen 3b) ""HG"" und ""GH"" vergessen";ja;100;20
+6;29;m;Master;Informatik;wiss. Mitarbeiter;Machine Learning, NLP;2;ja;ja;ja;nein;nein;4;;o;2;312;213;15;5;17;2;14;2;22;8;17;4;40;2;30;4;50;2;35;2;180;5;180;5;150;0;;"3a) ""HH"" und ""II"" vergessen; 3b) ""FGFH"" vergessen; 3c) Wort der Länge 5 wurde angegeben";nein;153;20
+7;30;m;Master;Informatik;wiss. Mitarbeiter;Datenmanagement;3;ja;ja;ja;ja;nein;1;0;o;2;132;312;18;5;15;2;8;2;28;8;24;3;85;0;44;4;32;2;12;2;65;1;130;2;44;0;"3b) Zeichenkette der Länge 3 mit angegeben; Länge 4 bei 3c) angegeben";"3a) nur leeres Wort genannt,""H,I"": Zeichen nicht beachtet; 3b) einige vergessen, ""FG"" falsch; 3c) ""FHG"" wurde angegeben";ja;110;45
+8;26;w;Real / Mittelschule;medizinische Fachangestellte;Arzthelferin;Medizin;10;ja;ja;ja;nein;nein;2;;o;2;231;312;50;5;90;2;20;2;70;8;70;3;60;1;60;0;130;1;50;0;190;0;180;0;180;1;;"3a) viele falsche genannt; 3b) viele falsche genannt; ";nein;155;40
+9;31;m;Abitur / Fachabitur;Jura;Student & Angestellter;Jura;2;nein;;;;;;;m;2;213;312;90;4;90;1;120;0;360;1;150;2;65;1;45;4;70;2;24;2;15;6;75;5;140;1;"hat Hilfe gebraucht, um richtige Regln zu finden; Regel 3 wurde bei 1a) falsch interpretiert; 3a) ""CB"" falsch; 3b) ""DEDC"" und ""DECE"" vergessen; 3c) Begründung falsch";"3a) leeres Wort vergessen; 3b) Länge 3 dabei";nein;130;30
+10;39;w;Real / Mittelschule;IT-Systemkauffrau;Sekretärin;Organistation des Lehrstuhls;10;ja;ja;ja;nein;nein;2;;o;2;321;132;35;5;17;2;14;2;150;7;60;4;90;2;90;4;50;2;80;2;180;0;80;0;180;0;3a) leeres Wort vergessen;"3a) ""EG"" und ""EF"" genannt, keines richtig; 3b) komplett falsch; response falsch interpretiert";nein;100;40
+11;25;w;Abitur / Fachabitur;Jura;Studentin;Jura;5;nein;;;;;;;m;1;312;213;42;5;19;2;43;2;42;8;39;4;59;2;70;0;56;2;90;0;90;5;300;6;65;2;;"1a) chainPrecedence und alternateResponse falsch; 3b) ""I"" und ""H"" vergessen";nein;20;5
+12;29;m;Master;Chemie;wiss. Mitarbeiter;Chemie;3;ja;nein;nein;nein;nein;;;o;1;312;123;45;5;24;2;66;0;55;2;130;2;45;1;20;4;15;2;11;2;55;7;16;6;130;1;"3a) einige vergessen; 3b) eines falsch; 3c) eines der Länge 4 angegeben; 2b) ""CBE"" wurde angegeben";"3a) ""I"" als bisherige Zeichenkette und bis 3 simuliert; 3c) falsche Herangehensweise";ja;120;35
+13;30;m;Master;Informatik;wiss. Mitarbeiter;Prozessmanagement;5;ja;ja;ja;ja;ja;4;1;o;2;312;132;27;5;22;2;48;2;50;8;70;3;58;2;90;4;70;2;55;2;180;5;210;6;53;2;3b) Länge 3 mit erwähnt;"3a) ""HH"" und ""II"" vergessen";nein;40;26
+14;31;m;Promotion;Mathematik;Postdoc;Mathematik;7;nein;;;;;;;o;2;312;231;22;5;20;2;15;2;38;8;33;4;39;2;47;4;15;0;14;2;67;1;145;3;41;2;;"2a) ""HGEF"" angegeben; 3a) nur ""II"" gefunden; 3b) ""FGHG"", ""FGFH"", ""FGGH""";nein;130;30
+15;33;w;Master;Education;Lehrerin;Sport & Wirtschaft;7;nein;;;;;;;m;1;231;132;45;5;65;2;50;0;80;8;25;3;90;2;35;4;65;2;50;2;185;0;180;1;50;2;"3b) Länge 3 angegeben; 2b) falsche Eingabe";"3a) kürzere vergessen; ""HE"", ""HF"", ""HG"" vergessen; 3b) 2 vergessen, 3 falsch";nein;75;75
+16;66;w;Real / Mittelschule;Bankkauffrau;Rentnerin;Bankwesen;48;nein;;;;;;;o;1;213;321;70;5;120;2;80;2;120;0;180;0;100;1;40;4;70;2;30;2;90;7;70;6;44;1;"3a) alles falsch; 3b) alles falsch; musste darauf hingewiesen werden, dass ""DDC"" bereits gültig";3c) Weg falsch;nein;100;60
+17;61;m;Promotion;Informatik;Professor (Uni);Prozessmanagement;28;ja;ja;ja;ja;ja;31;28;o;2;213;312;17;5;19;2;19;2;25;8;28;4;55;2;40;4;41;2;26;2;140;0;150;1;110;1;;"3a) zwar welche richtig, aber viele falsch; 3b) 3 richtig, 2 falsch; 3c) mit Hilfe gefunden";nein;140;60
+18;64;m;Real / Mittelschule;Techniker;Techniker;Serveradministration;20;ja;ja;ja;nein;nein;0;;o;1;213;321;120;3;150;2;130;2;180;2;180;0;70;1;30;4;45;2;30;2;90;7;50;6;110;2;"1a) response falsch, da ""D"" nicht vorkommt; 3a) komplett Überblick verloren; ""EC"" und ""E"" richtig; 3b) zu viele falsch, z.B. ""DECB""; 3c) Ergebnis nicht minimal: ""DCDC""";;nein;102;40
+19;49;m;Master;Elektrotechnik/ Informatik;Techniker;Server, Linux;24;ja;ja;nein;nein;nein;0;;m;2;132;123;60;1;35;2;17;2;130;0;180;2;23;1;20;4;13;2;10;2;50;7;40;6;90;1;"1a) Regel 4&5 falsch; 3a) nur ""E"" gefunden, ""CD"" falsch; 3b) alle richtig, 2 falsche zusätzlich; 3c) ""DCDC"" angegeben (-> nicht minimal)";3c) nicht überprüft, ob F nicht am Anfang sein muss;nein;188;76
+20;32;w;Bachelor;Informatik;Unternehmensberaterin;Banken;5;ja;ja;nein;nein;nein;0;;m;2;231;123;60;5;90;2;45;2;60;2;180;3;30;1;23;4;26;2;24;2;60;7;30;6;120;2;"3a) nur leeres Wort und ""DC"" gefunden; 3b) ""DEDC"" vergessen; 3c) ""DCDC"" angegeben";;nein;76;5
+21;29;m;Master;Jura;Jurist;Jura;2;nein;;;;;;;m;2;132;213;50;5;35;2;25;2;250;6;120;3;32;2;22;4;40;2;18;2;60;7;30;6;68;2;3a) alles richtig, nur zwei zu viel. 3b) alle richtig, eins falsch;;nein;80;20
+22;69;m;Master;Lehramt Gymnasium;Rentner;Französisch, Englisch;40;nein;;;;;;;m;1;231;231;80;5;60;2;77;2;100;7;70;4;80;2;120;0;100;2;30;2;60;0;70;1;60;2;3a) leeres Wort vergessen;"3a) alles falsch 3b) nur ""FGHGF"" gefunden 1a) coExistence und chainResponse falsch";nein;155;118
+23;30;m;Master;Chemie & Materialwissenschaften;wiss. Mitarbeiter;Chemie & Materialwissenschaften;3;ja;ja;ja;nein;nein;0,1;;o;1;312;231;55;5;60;2;23;2;240;2;80;0;40;2;17;4;27;2;70;2;150;7;38;6;180;1;"3a) alles mit ""E"" vergessen; 3b) alles falsch";"3a) Herangehensweise falsch; 3c) Herangehensweise falsch";nein;110;10
+24;36;m;Promotion;Informatik;wiss. Mitarbeiter;Prozessmanagement, NLP;9;ja;ja;ja;ja;ja;9;7;m;1;132;312;30;5;26;2;20;2;35;8;35;4;90;2;55;2;48;2;54;0;240;5;220;4;30;2;;"3a) ""II"" und ""HH"" vergessen; Rest richtig; 3b) ""FGHG"" und ""FGGH"" vergessen; 1a) chainPrecedence falsch; 2b) nicht erkannt, dass nicht mehr geht";nein;155;20
+25;64;m;Master;Lehramt Realschule;Ministerialbeauftragter;Schulaufsicht;7;nein;;;;;;;m;2;312;213;45;5;30;2;60;0;56;1;250;3;33;1;25;4;70;2;35;2;45;7;60;4;110;1;"3a) nur ""DC"" gefunden; 3b) alle richtig, ein falsches zusätzlich; 3c) ""DCD"" angegeben; 2b) mit Hilfe";"3b) falsche Funktion benutzt (2. Funktion); 3c) nicht minimale gefunden";ja;153;76
+26;24;w;Abitur / Fachabitur;Jura;Studentin;Jura;;ja;ja;nein;nein;nein;0;;m;1;312;312;25;5;20;2;30;2;60;8;15;4;60;2;30;2;30;2;30;2;100;0;60;3;60;2;;"3a) nur ""II"" richtig, ""GF"" falsch; 3b) ""FGHG"", ""FGFH"" und ""FGGH"" vergessen; 1a) chainResponse nur 1 ""E"" berücksichtigt";nein;135;30
+27;30;m;Master;Wirtschaftsingenieurwesen;Master Data Manager;SAP;4;ja;ja;nein;nein;nein;0;0;m;2;231;213;63;5;40;2;30;2;120;3;120;3;32;2;15;4;60;2;13;2;21;7;21;6;115;2;"3a) leeres Wort, ""CC"", ""CE"", ""EC"", ""EE"" vergessen; 3b) ""DEDC"" vergessen";;nein;156;55
+28;28;w;Master;Wirtschaftsingenieurwesen;Assistenz der Geschäftsleitung;ungeklärte Fragen;3;ja;ja;nein;nein;nein;0;0;m;1;123;132;25;5;14;2;12;2;16;8;15;4;90;1;40;1;60;1;35;2;110;1;180;2;50;2;3c) nicht überprüft, ob kürzere geht;"1a) chainPrecedence nur einmal erkannt; 3a) nur leeres Wort gefunden; 3b) nur ""FGHI"" und ""FGIH"" gefunden; 2a) Ergebnis nicht minimal";nein;118;20
+29;46;m;Master;Diplomverwaltungswirt;Kriminalbeamter;Wirtschaftskriminalität;25;nein;nein;nein;nein;nein;0;0;m;2;312;213;40;4;36;2;70;2;180;0;120;2;60;2;20;4;37;2;17;2;70;6;30;6;60;2;"3a) alle falsch; 3b) nur ""DECC"" und ""DECE"" gefunden; 1a) response(D,C) falsch - wurde nicht erkannt, dass ""D"" nicht vorkommen muss";3a) leer vergessen;ja;96;62
+30;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+31;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+32;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+33;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+34;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+35;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+36;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+37;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+38;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+39;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+40;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+41;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+42;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+43;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+44;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+45;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+46;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+47;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+48;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+49;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+50;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+51;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+52;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+53;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+54;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+55;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+56;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+57;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+58;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+59;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+60;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+61;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+62;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+63;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+64;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+65;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+66;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+67;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+68;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+69;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+70;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+71;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+72;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+73;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+74;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+75;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+76;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+77;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+78;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+79;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+80;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+81;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+82;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+83;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+84;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+85;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+86;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+87;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+88;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+89;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+90;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+91;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+92;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+93;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+94;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+95;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+96;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+97;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+98;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+99;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+100;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

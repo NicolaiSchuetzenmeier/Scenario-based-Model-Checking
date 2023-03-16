@@ -10,7 +10,7 @@ scenarios, which regularly occur when modeling declarative processes. We impleme
 can be computed within milliseconds even for real-life event logs. Furthermore, a user study conducted demonstrates that the error rate in 
 understanding declarative process models is enormously reduced by using our implementation. 
 
-*Excerpt from the paper "Scenario-based Model Checking of Declarative Process Models" (currently under review)*
+*Excerpt from the paper "Scenario-based Model Checking of Declarative Process Models"*
 
 ## Folder Description of uploaded files:
 - "Process models" contains for each BPIC event log used in the paper:

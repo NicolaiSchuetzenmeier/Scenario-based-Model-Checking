@@ -1,4 +1,4 @@
-# Scenario-based Model Checking of Declarative Process Models
+# Scenario-Based Model Checking of Declarative Process Models
 > Modeling processes with declarative process models, i.e. sets of constraints which have to be satisfied throughout the whole 
 process execution, allows for a great degree of flexibility in process execution. However, having a process specified by means 
 of symbolic, textual or formally constraints comes along with the problem that it is often hard for humans to understand complicated 
@@ -10,7 +10,7 @@ scenarios, which regularly occur when modeling declarative processes. We impleme
 can be computed within milliseconds even for real-life event logs. Furthermore, a user study conducted demonstrates that the error rate in 
 understanding declarative process models is enormously reduced by using our implementation. 
 
-*Excerpt from the paper "Scenario-based Model Checking of Declarative Process Models"*
+*Excerpt from the paper "Scenario-Based Model Checking of Declarative Process Models"*
 
 ## Folder Description of uploaded files:
 - "Process models" contains for each BPIC event log used in the paper:
@@ -78,7 +78,7 @@ understanding declarative process models is enormously reduced by using our impl
 If you use the tool or the data in your paper, please cite the following paper:
 ```
 @article{schuetzenmeier-2022-scenariobased,
-    title = "Scenario-based model checking of Declarative Process Models",
+    title = "Scenario-Based Model Checking of Declarative Process Models",
     author = "Sch\"{u}tzenmeier, Nicolai and K\"{a}ppel, Martin and 
         Fichtner, Myriel and Jablonski, Stefan",
     year = "2023"

@@ -77,11 +77,17 @@ understanding declarative process models is enormously reduced by using our impl
 ## Citation
 If you use the tool or the data in your paper, please cite the following paper:
 ```
-@article{schuetzenmeier.2023,
-    title = "Scenario-Based Model Checking of Declarative Process Models",
-    author = "Sch\"{u}tzenmeier, Nicolai and K\"{a}ppel, Martin and 
-        Fichtner, Myriel and Jablonski, Stefan",
-    year = "2023"
+@conference{schuetzenmeier23,
+author={Nicolai Schützenmeier. and Martin Käppel. and Myriel Fichtner. and Stefan Jablonski.},
+title={Scenario-Based Model Checking of Declarative Process Models},
+booktitle={Proceedings of the 25th International Conference on Enterprise Information Systems - Volume 2: ICEIS,},
+year={2023},
+pages={406-417},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0011856400003467},
+isbn={978-989-758-648-4},
+issn={2184-4992},
 }
 ```
 
